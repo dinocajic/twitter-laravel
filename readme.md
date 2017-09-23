@@ -1,3 +1,11 @@
+## Twitter API: Laravel
+I utilized the Twitter API on top of Laravel's Fraamework to retrieve and post tweets with a simple Twitter model.
+
+The code and detailed instructions can be seen on <a href="http://dinocajic.xyz/projects/twitter-laravel/public/">my website.</a>
+
+<img src="http://dinocajic.xyz/projects/twitter-laravel/demo_images/1.jpg" alt="Demo Laravel Twitter">
+<img src="http://dinocajic.xyz/projects/twitter-laravel/demo_images/2.jpg" alt="Twitter API Laravel">
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
