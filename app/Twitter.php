@@ -13,7 +13,7 @@ class Twitter extends Model {
     private $_consumer_key        = '';
     private $_consumer_secret     = '';
     private $_access_token        = '';
-    private $_access_token_secret = 'Bt8eeJdtvLq4qIKfnZyHVthfac7QDWumii34kCVJXsvZa';
+    private $_access_token_secret = '';
     private $_connection;
     private $_content;
 
